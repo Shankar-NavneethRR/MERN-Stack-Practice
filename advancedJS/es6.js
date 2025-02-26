@@ -97,3 +97,4 @@ class ClassExample{
 obj = new ClassExample();
 console.log(obj.ClassFun());
 console.log(new ClassExample().ClassFun());
+console.log("Hello");
